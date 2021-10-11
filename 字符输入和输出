@@ -1,0 +1,12 @@
+  /*  
+	int a = 66; char f, b, c;
+	putchar(a);
+	putchar('\101'); 
+	putchar('\n');
+	f = getchar();
+	b = getchar();
+	c = getchar();
+	putchar(f);
+	putchar(b);
+	putchar(c);*/
+	
